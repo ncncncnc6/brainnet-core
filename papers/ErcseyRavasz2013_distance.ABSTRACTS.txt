@@ -1,0 +1,9 @@
+DOI: 10.1016/j.neuron.2013.07.036
+PMCID: PMC3954498
+题名: A predictive network model of cerebral cortical connectivity based on a distance rule.
+刊: Neuron (2013)
+开放获取: N
+（全文不可得，仅摘要；Europe PMC 标注非 OA）
+
+摘要:
+Recent advances in neuroscience have engendered interest in large-scale brain networks. Using a consistent database of cortico-cortical connectivity, generated from hemisphere-wide, retrograde tracing experiments in the macaque, we analyzed interareal weights and distances to reveal an important organizational principle of brain connectivity. Using appropriate graph theoretical measures, we show that although very dense (66%), the interareal network has strong structural specificity. Connection weights exhibit a heavy-tailed lognormal distribution spanning five orders of magnitude and conform to a distance rule reflecting exponential decay with interareal separation. A single-parameter random graph model based on this rule predicts numerous features of the cortical network: (1) the existence of a network core and the distribution of cliques, (2) global and local binary properties, (3) global and local weight-based communication efficiencies modeled as network conductance, and (4) overall wire-length minimization. These findings underscore the importance of distance and weight-based heterogeneity in cortical architecture and processing.
